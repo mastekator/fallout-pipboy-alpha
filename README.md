@@ -1,4 +1,4 @@
-# Fallout vauld PipBoy
+# Fallout vault PipBoy
 
 ## Discription
 
